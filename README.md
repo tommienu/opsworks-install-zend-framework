@@ -1,7 +1,7 @@
 opsworks-install-zend-framework
 ===============================
 
-Simple chef-script to install Zend Framework via apt-get within a Ubuntu environment.
+Simple chef-script to install Zend Framework via apt-get within a Ubuntu environment. Script is specifically done to work with Amazon AWS OpsWorks.
 
 Installation:
 * Clone this repository and add the github (https) path to the layer.
